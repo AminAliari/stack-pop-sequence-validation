@@ -1,5 +1,5 @@
 # stack-pop-sequence-validation
-##This is a solution for my data Data Struct. &amp; Algorithms course.
+##This is a solution for this problem that I had to solve for my data Data Struct. &amp; Algorithms course.
 
 ####Problem:
 Suppose that an intermixed sequence of 10 push and 10 pop operations are performed on a LIFO stack. The pushes push the letters 0 through 9 in order; the pops print out the return value. Which of the following output sequence(s) could occur? Some of the examples are:
