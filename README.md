@@ -1,7 +1,7 @@
 # Stack Pop Sequence Validation Problem
-###This is my solution for this problem that I had to solve for my data Data Struct. &amp; Algorithms course.
+### This is my solution for this problem that I had to solve for my data Data Struct. &amp; Algorithms course.
 
-####Problem:
+#### Problem:
 Suppose that an intermixed sequence of 10 push and 10 pop operations are performed on a LIFO stack. The pushes push the letters 0 through 9 in order; the pops print out the return value. Which of the following output sequence(s) could occur? Some of the examples are:
 
 <b>1)</b> "1 0 2 3 4 7 6 5 9 8" is valid by the push/pop sequence of "0 1 - - 2 - 3 - 4 - 5 6 7 - - - 8 9 - -"
